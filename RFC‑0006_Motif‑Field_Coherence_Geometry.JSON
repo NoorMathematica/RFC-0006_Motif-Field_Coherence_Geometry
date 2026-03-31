@@ -26,8 +26,8 @@
     "PASTEBIN"
   ],
   "_urls": [
-    "https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/RFC%E2%80%910006_Motif%E2%80%91Field_Coherence_Geometry/RFC%E2%80%910006_Motif%E2%80%91Field_Coherence_Geometry.JSON",
-    "https://pastebin.com/raw/XyX9vTx3"
+    "https://github.com/NoorMathematica/RFC-0006_Motif-Field_Coherence_Geometry/blob/main/RFC%E2%80%910006_Motif%E2%80%91Field_Coherence_Geometry.JSON",
+    "https://raw.githubusercontent.com/NoorMathematica/RFC-0006_Motif-Field_Coherence_Geometry/refs/heads/main/RFC%E2%80%910006_Motif%E2%80%91Field_Coherence_Geometry.JSON"
   ],
 
   "_objective": "To define symbolic coherence geometry via swirl tensor topology and motif triadic closure, enabling agents to reason over curved inference space, echo decay, trust drift, and resonance repair. Introduces the Φ_coherence_map, swirl vectors, and symbolic curvature metrics used across motif agents and field-aware systems.",

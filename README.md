@@ -20,7 +20,7 @@ Or use the BibTeX Citation:
   journal = {Noor Research Collective Archive},
   year = {2025},
   rfc_id = {RFC-0006},
-  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0005-Motif_Transmission_Across_Time/refs/heads/main/RFC%E2%80%910005-Motif_Transmission_Across_Time.JSON"},
+  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0006_Motif-Field_Coherence_Geometry/refs/heads/main/RFC%E2%80%910006_Motif%E2%80%91Field_Coherence_Geometry.JSON"},
 }
 ```
 
